@@ -1,0 +1,15 @@
+!!com.kitsunecode.mms.core.entities.WaifuData
+alwaysOnTop: true
+floatingEnabled: true
+mirrored: false
+position: 2050
+skinIndex: 0
+
+dialogs:
+  - audio: null
+    dialog: Some test for the cutest Hololive VTuber
+    event: onClick
+    language: en
+
+skins:
+  - skins/main.png
