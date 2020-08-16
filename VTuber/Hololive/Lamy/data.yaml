@@ -10,6 +10,10 @@ dialogs:
     dialog: Some test for the cutest Hololive VTuber
     event: onClick
     language: en
+  - audio: null
+    dialog: Ohayou {@user.nickname}!
+    event: onLogin
+    language: en
 
 skins:
   - skins/main.png

@@ -10,6 +10,10 @@ dialogs:
     dialog: Moe moe kyun!
     event: onClick
     language: en
+  - audio: null
+    dialog: Ohayou {@user.nickname}!
+    event: onLogin
+    language: en
 
 skins:
   - skins/main.png
