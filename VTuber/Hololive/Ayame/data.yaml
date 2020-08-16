@@ -7,9 +7,10 @@ skinIndex: 0
 
 dialogs:
   - audio: null
-    dialog: Some test for the cutest Hololive VTuber
+    dialog: Moe moe kyun!
     event: onClick
     language: en
 
 skins:
   - skins/main.png
+  - skins/main-no-spirits.png
