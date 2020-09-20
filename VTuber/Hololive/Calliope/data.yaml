@@ -1,0 +1,19 @@
+!!com.kitsunecode.mms.core.entities.WaifuData
+alwaysOnTop: true
+floatingEnabled: true
+mirrored: false
+position: 0
+skinIndex: 0
+
+dialogs:
+  - audio: null
+    dialog: Some test for the cutest Hololive VTuber
+    event: onClick
+    language: en
+  - audio: null
+    dialog: Ohayou {@user.nickname}!
+    event: onLogin
+    language: en
+
+skins:
+  - skins/main.png
