@@ -6,12 +6,12 @@ position: 0
 skinIndex: 0
 
 dialogs:
-  - audio: null
-    dialog: Some test for the cutest Hololive VTuber
+  - audio: audio/could_you_rip_pls.wav
+    dialog: Could you please RIP?
     event: onClick
     language: en
   - audio: null
-    dialog: Ohayou {@user.nickname}!
+    dialog: Good morning {@user.nickname}
     event: onLogin
     language: en
 
