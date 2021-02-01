@@ -1,0 +1,33 @@
+dialogs:
+- audio: null
+  dialog: Hey... Would you want to go on a date with me sometime? Or would you not
+    want to go with someone like me...?
+  event: onClick
+  language: en
+- audio: null
+  dialog: Ah... These berries smell so good! They would taste great if I made drinks
+    with them... No, no! I'm in the middle of work!
+  event: onClick
+  language: en
+- audio: null
+  dialog: No, Yukari...! If you keep doing things this way, he'll only ever get to
+    see your bad points!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Somehow... I feel like I'm in a better mood... Am I imagining things...?
+  event: onClick
+  language: en
+- audio: null
+  dialog: I'm prepared! Hear my holy prayer!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Hey, are you free now? Do you want to go drinking with me somewhere? Of
+    course, it'll be juice for you.
+  event: onLogin
+  language: en
+skins:
+- skins/Cute-elf-longsword-ayase_yukari_normal_start-0-normal.png
+- skins/Cute-elf-longsword-ayase_yukari_normal_start-1-normal.png
+- skins/Cute-elf-longsword-ayase_yukari_rare_start-1-normal.png

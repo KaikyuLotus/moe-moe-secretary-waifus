@@ -1,0 +1,29 @@
+dialogs:
+- audio: null
+  dialog: Resolving incidents as quick the wind; capturing criminals like a lightning
+    strike. Leave it to me, Great Detective Kasumi!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I'm not one to enjoy getting rough... but if it's in order to resolve the
+    incident, I have no intention of staying quiet!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Our relationship may be that of a detective and assistant right now, but
+    if we leave that aside, to me, you're still a precious partner.
+  event: onClick
+  language: en
+- audio: null
+  dialog: With you here perfectly following me up, I can go all out! Without a doubt,
+    a Great Assistant to a Great Detective!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Let's go on an investigation, Assistant. I'm expecting good work from you.
+  event: onLogin
+  language: en
+skins:
+- skins/Cute-beast-staff-kirihara_kasumi_normal_chapter003-0-normal.png
+- skins/Kasumi-magicalgirl-sprite-normal.png
+- skins/Cute-beast-staff-kirihara_kasumi_normal_chapter003-1-normal.png

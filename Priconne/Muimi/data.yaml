@@ -1,0 +1,11 @@
+dialogs:
+- audio: null
+  dialog: It's fine, me being...alone. Like I said, I'm fine, I'm already used to
+    it.
+  event: onLogin
+  language: en
+skins:
+- skins/Muimi-astrum1-sprite-normal.png
+- skins/Muimi-astrum2-sprite-normal.png
+- skins/Muimi-astrum3-sprite-normal.png
+- skins/Muimi-casual-sprite-normal.png

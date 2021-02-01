@@ -1,0 +1,8 @@
+dialogs:
+- audio: null
+  dialog: '-'
+  event: onLogin
+  language: en
+skins:
+- skins/Rem-astrum-sprite-normal.png
+- skins/Rem-demon-sprite-normal.png

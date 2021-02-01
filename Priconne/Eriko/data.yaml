@@ -1,0 +1,32 @@
+dialogs:
+- audio: null
+  dialog: Please look only at me. Only at me, the one before you right now. There
+    may be other illusions of me, but I won't allow you to avert your eyes from me.
+  event: onClick
+  language: en
+- audio: null
+  dialog: If an imposter of you were to appear, I might like to bind him up and keep
+    him for my viewing pleasure... But an imposter will only ever be a imposter. The
+    one I need is you, and you alone...
+  event: onClick
+  language: en
+- audio: null
+  dialog: What version of me do you wish for? Whatever your wish is, I will change
+    accordingly. Because I love you so...
+  event: onClick
+  language: en
+- audio: null
+  dialog: What sort of girl would you prefer? A bright me? A cool me? A calm me? ...
+    Of course, there's nobody other than me, yes?
+  event: onClick
+  language: en
+- audio: null
+  dialog: Ah... My fated person... Where are you, and what are you doing now? I want
+    to meet you right away... Kusu Kusu
+  event: onLogin
+  language: en
+skins:
+- skins/Cute-fiend-ax-kuraishi_eriko_rare_start-0-normal.png
+- skins/Eriko-valentines-sprite-normal.png
+- skins/Cute-fiend-ax-kuraishi_eriko_normal_start-1-normal.png
+- skins/Cute-fiend-ax-kuraishi_eriko_rare_start-1-normal.png

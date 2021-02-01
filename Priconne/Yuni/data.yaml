@@ -1,0 +1,10 @@
+dialogs:
+- audio: null
+  dialog: '......Hum, what are you saying? In other words, that is to say, I''m so
+    Zzz Zzz I don''t feel like doing anything'
+  event: onLogin
+  language: en
+skins:
+- skins/Yuni-astrum-sprite-normal.png
+- skins/Yuni-real-sprite-normal.png
+- skins/Yuni-real2-sprite-normal.png

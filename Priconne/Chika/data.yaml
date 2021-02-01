@@ -1,0 +1,31 @@
+dialogs:
+- audio: null
+  dialog: '...Just a little closer... Just by being near it, a new melody comes to
+    me'
+  event: onClick
+  language: en
+- audio: null
+  dialog: Just wake up? The festival in the other city has just started, would you
+    like to go with us later?
+  event: onClick
+  language: en
+- audio: null
+  dialog: '...There are so many words in my heart that I just can''t write down them
+    all... I want to sing so much...'
+  event: onClick
+  language: en
+- audio: null
+  dialog: Some day... When I write a song that is able to spell out my thoughts...
+    Will you please listen to it?
+  event: onClick
+  language: en
+- audio: null
+  dialog: To protect the peace for everyone, I'll use my song to fight. ... Lately,
+    I've been taking part in some, um... idol activities. I'm not used to it at all...
+  event: onLogin
+  language: en
+skins:
+- skins/Cool-human-staff-misumi_chika_rare_gacha007-0-normal.png
+- skins/Chika-christmas-sprite-normal.png
+- skins/Cool-human-staff-misumi_chika_rare_gacha007-1-normal.png
+- skins/Cool-human-staff-misumi_chika_normal_start-1-normal.png

@@ -1,0 +1,10 @@
+dialogs:
+- audio: null
+  dialog: So annoying! If you just eat one bite, it should be clear that my crepes
+    are the best!
+  event: onLogin
+  language: en
+skins:
+- skins/Labyrista-special-sprite-normal.png
+- skins/Labyrista-astrum-sprite-normal.png
+- skins/Labyrista-astrumchef-sprite-normal.png

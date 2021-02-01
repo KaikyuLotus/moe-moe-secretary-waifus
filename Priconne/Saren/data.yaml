@@ -1,0 +1,31 @@
+dialogs:
+- audio: null
+  dialog: I'll attract the customers; can you hold this sign and guide them over?
+  event: onClick
+  language: en
+- audio: null
+  dialog: There are more customers than I'd expected -- I'm surprised! This is quite
+    a special occasion, so you should have a look, too!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Truly, thank you for your help! With you here, this was much more fun than
+    usual! I'll be counting on you next time, too!
+  event: onClick
+  language: en
+- audio: null
+  dialog: The bazaar was a huge success! Afterwards, we're going to have a big dinner!
+    If you're there, then all the tiredness will vanish right away!
+  event: onClick
+  language: en
+- audio: null
+  dialog: All of the orphanage's kids are my cute children. I give them happiness,
+    you'll lend a hand now won't you?
+  event: onLogin
+  language: en
+skins:
+- skins/Cute-elf-katana-sasaki_saren_rare_raidmedal007-0-normal.png
+- skins/Saren-summer-sprite-normal.png
+- skins/Cute-elf-katana-sasaki_saren_normal_start-1-normal.png
+- skins/Cute-elf-katana-sasaki_saren_rare_raidmedal007-1-normal.png
+- skins/Saren-realsummer-sprite-normal.png

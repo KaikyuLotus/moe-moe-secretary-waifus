@@ -1,0 +1,34 @@
+dialogs:
+- audio: null
+  dialog: There is nothing that I cannot cut! Shogun, please relax as if you are boarding
+    your yacht!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I've already thoughtfully gotten Shogun's sandals warmed up! Let's head
+    out together!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Shogun, take my hand! Hee hee... This way, Shogun and I have become linked
+    together by a strong bond!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Shogun! Do you want to eat? Or do you want to take a bath? Or else, do you
+    want... me? Ahh, how embarrassing...
+  event: onClick
+  language: en
+- audio: null
+  dialog: 'Here I go! Leave it to me! Ninja Art: Scorching Hell!'
+  event: onClick
+  language: en
+- audio: null
+  dialog: '"I will be in your care from now on! Shogun, we will unify these lands
+    together!"'
+  event: onLogin
+  language: en
+skins:
+- skins/Cute-human-katana-joubert_ninon_rare_start-0-normal.png
+- skins/Ninon-ooedo-sprite-normal.png
+- skins/Cute-human-katana-joubert_ninon_rare_start-1-normal.png

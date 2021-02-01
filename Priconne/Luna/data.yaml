@@ -1,0 +1,9 @@
+dialogs:
+- audio: null
+  dialog: '-'
+  event: onLogin
+  language: en
+skins:
+- skins/Luna-astrum-sprite-normal.png
+- skins/Luna-astrum2-sprite-normal.png
+- skins/Luna-real-sprite-normal.png

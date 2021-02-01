@@ -1,0 +1,35 @@
+dialogs:
+- audio: null
+  dialog: In order to protect you, I want to become stronger. That's the thought I've
+    been having lately. ... I'm glad that I can wield my sword for you.
+  event: onClick
+  language: en
+- audio: null
+  dialog: Just by being together with you, I can feel my power growing. Your very
+    presence makes me so much stronger.
+  event: onClick
+  language: en
+- audio: null
+  dialog: Watch the enemy's movements, and strike them with a lethal attack at their
+    exact weak point! That's the essence of fencing.
+  event: onClick
+  language: en
+- audio: null
+  dialog: After a battle, I get quite tired, and my stomach starts to growl... Would
+    you like to have some food with me?
+  event: onClick
+  language: en
+- audio: null
+  dialog: 'You''re prepared for this, right? Then, let''s go! Mikuma''s Esoterica:
+    Asura!'
+  event: onClick
+  language: en
+- audio: null
+  dialog: I like chatting, and especially teasing older people -- and you're like
+    the perfect target.
+  event: onLogin
+  language: en
+skins:
+- skins/Cool-human-katana-mikuma_tomo_rare_raidmedal002-0-normal.png
+- skins/Cool-human-katana-mikuma_tomo_normal_start-1-normal.png
+- skins/Cool-human-katana-mikuma_tomo_rare_raidmedal002-1-normal.png

@@ -1,0 +1,9 @@
+dialogs:
+- audio: null
+  dialog: 'I hope... there are no scary monsters...
+
+    W-What if there is though? I''ll just have to turn it into ashes with my fire!'
+  event: onLogin
+  language: en
+skins:
+- skins/Inori-astrum-sprite-normal.png

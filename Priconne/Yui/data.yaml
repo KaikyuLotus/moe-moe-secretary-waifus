@@ -1,0 +1,30 @@
+dialogs:
+- audio: null
+  dialog: What kind of magic should I study... Magic to make someone fall in love...
+    S-Something like that doesn't exist!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I learned some new magic. Fire protection, cold protection, heat resistance...
+    And after that, the magic that prevents fish bones from getting caught in your
+    throat... It's a secret, okay?
+  event: onClick
+  language: en
+- audio: null
+  dialog: If there's anything that I can do for you, just say it, okay? If you have
+    any small injuries, I'll heal you up right away.
+  event: onClick
+  language: en
+- audio: null
+  dialog: For your sake, I... I'll definitely do my very best!
+  event: onClick
+  language: en
+- audio: null
+  dialog: If you fight, leave healing and support to me! Just...work hard on attacking.
+  event: onLogin
+  language: en
+skins:
+- skins/Cute-human-staff-kusano_yui_rare_start-0-normal.png
+- skins/Yui-newyear-sprite-normal.png
+- skins/Cute-human-staff-kusano_yui_normal_start-1-normal.png
+- skins/Cute-human-staff-kusano_yui_rare_start-1-normal.png

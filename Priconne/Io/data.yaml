@@ -1,0 +1,30 @@
+dialogs:
+- audio: null
+  dialog: I'm not really an airhead, you know? I do slip up every so often, but...
+    I mean it!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I was attacked by a monster, but when it saw my face, it grew bright red
+    and fainted... I wonder why?
+  event: onClick
+  language: en
+- audio: null
+  dialog: Hey, if I were to fall down, would you help me back up? Hee hee... I've
+    come to rely on you completely. I'm quite the teacher, huh?
+  event: onClick
+  language: en
+- audio: null
+  dialog: What kind of person was my first boyfriend? If I fell down, he would help
+    me up without making fun of me. He was a kind person like you...
+  event: onClick
+  language: en
+- audio: null
+  dialog: I'm a new teacher, just as I appear. If you come across a word that you
+    don't understand, just ask me. Your teacher will teach you all... about... it!
+  event: onLogin
+  language: en
+skins:
+- skins/Pop-fiend-longsword-hasekura_io_normal_start-0-normal.png
+- skins/Io-summer-sprite-normal.png
+- skins/Pop-fiend-longsword-hasekura_io_normal_start-1-normal.png

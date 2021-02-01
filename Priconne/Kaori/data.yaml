@@ -1,0 +1,30 @@
+dialogs:
+- audio: null
+  dialog: With so many friends, every day is so much fun! I'm having too much fun,
+    I can't help but dance!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Let's go to the sea together! The ocean water feels the best!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Bathing in the water feels so nice! You should come in, too! I'll hold your
+    hand so that you don't slip!
+  event: onClick
+  language: en
+- audio: null
+  dialog: It's a lot of fun when everyone's dancing together! Come, come, you should
+    come dance, too!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Haitai! Let's work together from now on! Come sing and dance together with
+    me!
+  event: onLogin
+  language: en
+skins:
+- skins/Pop-beast-knuckle-kyan_kaori_rare_start-0-normal.png
+- skins/Kaori-summer-sprite-normal.png
+- skins/Pop-beast-knuckle-kyan_kaori_normal_start-1-normal.png
+- skins/Pop-beast-knuckle-kyan_kaori_rare_start-1-normal.png

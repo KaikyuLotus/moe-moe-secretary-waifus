@@ -1,0 +1,30 @@
+dialogs:
+- audio: null
+  dialog: So, how is it...? When you look at me, do you feel anything? Fear? How...
+    strange.
+  event: onClick
+  language: en
+- audio: null
+  dialog: The moment when pain turns to pleasure is a sure thing to appear... Would
+    you like to try searching for it?
+  event: onClick
+  language: en
+- audio: null
+  dialog: This perfume is meant to lure you in, so why does it just attract monsters...?
+  event: onClick
+  language: en
+- audio: null
+  dialog: When I'm with you, it's strange, but... My pulse suddenly quickens... Would
+    you like to see for yourself?
+  event: onClick
+  language: en
+- audio: null
+  dialog: Fufufu... So many experimenting tables... I've just created a new medicine,
+    so this is a great help. I've had my "eye" on you for a long time... Should I
+    let you go, I wonder?
+  event: onLogin
+  language: en
+skins:
+- skins/Cool-human-longsword-yoigahama_mitsuki_rare_raidmedal003-0-normal.png
+- skins/Cool-human-longsword-yoigahama_mitsuki_normal_start-1-normal.png
+- skins/Cool-human-longsword-yoigahama_mitsuki_rare_raidmedal003-1-normal.png

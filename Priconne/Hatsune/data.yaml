@@ -1,0 +1,29 @@
+dialogs:
+- audio: null
+  dialog: You know, even if I use my psychic skills a ton, if I do this, I can use
+    the earth's power to charge myself right back to full! I'm feeling great!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Ehehe. When you're by my side, I feel all nice and warm -- and also... a
+    little... sleepy...
+  event: onClick
+  language: en
+- audio: null
+  dialog: Zzz... It feels so nice when you're here... It's like I'm going to have
+    a nice dream...
+  event: onClick
+  language: en
+- audio: null
+  dialog: Somehow, I feel like I had a nice dream. We were together, and... Hee hee,
+    well, it'd be good if it was a vision of the future.
+  event: onClick
+  language: en
+- audio: null
+  dialog: Yay, peace peace! Whether it be monsters or whatever, I'll hit them with
+    a psychic blow! I'm powerfuuul~!
+  event: onLogin
+  language: en
+skins:
+- skins/Pop-elf-staff-kashiwazaki_hatsune_rare_start-0-normal.png
+- skins/Pop-elf-staff-kashiwazaki_hatsune_rare_start-1-normal.png

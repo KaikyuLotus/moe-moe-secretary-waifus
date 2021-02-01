@@ -1,0 +1,35 @@
+dialogs:
+- audio: null
+  dialog: I'm going to aim to become a top idol! I'll be counting on your support!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I do sometimes think that, if you wanted me to, then I'd be okay with not
+    being an idol anymore. ... But not very often!
+  event: onClick
+  language: en
+- audio: null
+  dialog: In this song, the feelings of the girl's unrequited love really come through?
+    ... Hee hee, you really are thick.
+  event: onClick
+  language: en
+- audio: null
+  dialog: Once I become a top idol, what do you think the world will look like? When
+    that time comes, will you still be here by my side...?
+  event: onClick
+  language: en
+- audio: null
+  dialog: Sorry for the wait! Show time! This rhythm is for you!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I'll be counting on you, so let's work together until I can become a top
+    idol, okay? Ahaha, from now on, I'll be in your care!
+  event: onLogin
+  language: en
+skins:
+- skins/Cute-human-longsword-sakurai_nozomi_rare_gacha001-0-normal.png
+- skins/Nozomi-idolastrum-sprite-normal.png
+- skins/Nozomi-christmas-sprite-normal.png
+- skins/Cute-human-longsword-sakurai_nozomi_rare_gacha001-1-normal.png
+- skins/Cute-human-longsword-sakurai_nozomi_normal_start-1-normal.png

@@ -1,0 +1,28 @@
+dialogs:
+- audio: null
+  dialog: U-Um... S-Sorry! It was nothing...
+  event: onClick
+  language: en
+- audio: null
+  dialog: Ah!? I-Is there something on my face? Please, don't stare at me like that...
+  event: onClick
+  language: en
+- audio: null
+  dialog: I'd like to practice in this forest a little more... Because until I get
+    better, it'll be embarrassing if anyone sees me...
+  event: onClick
+  language: en
+- audio: null
+  dialog: Ooh... Please, don't stare... Ah, um, but... It's not that I don't want
+    you to look, either...
+  event: onClick
+  language: en
+- audio: null
+  dialog: Um, uh... I-I'm Kurumi... Oooh... Wh-What do I do... T-This is so embarrassing...
+    I'm, I'm sorryyy!
+  event: onLogin
+  language: en
+skins:
+- skins/Cute-human-ax-kuribayashi_kurumi_rare_start-0-normal.png
+- skins/Kurumi-christmas-sprite-normal.png
+- skins/Cute-human-ax-kuribayashi_kurumi_rare_start-1-normal.png

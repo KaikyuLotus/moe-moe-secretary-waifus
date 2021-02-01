@@ -1,0 +1,30 @@
+dialogs:
+- audio: null
+  dialog: Even though he's very big, Nyatto is a complete softy. Nyatto, you're a
+    good boy, aren't you?
+  event: onClick
+  language: en
+- audio: null
+  dialog: Nyatto was once a little kid, but now he's grown up to be so splendid. He's
+    my dear friend.
+  event: onClick
+  language: en
+- audio: null
+  dialog: Aren't you tired? If you'd like... How about taking a break with me?
+  event: onClick
+  language: en
+- audio: null
+  dialog: Holding Nyatto like this is so fluffy and comfortable. And sitting here
+    by your side... is also comfortable.
+  event: onClick
+  language: en
+- audio: null
+  dialog: I apologize. I have a bit of a frail constitution. Sometimes, I just go
+    "whoosh...!" and I get all dizzy.
+  event: onLogin
+  language: en
+skins:
+- skins/Cool-beast-bow-kashiwazaki_shiori_rare_start-0-normal.png
+- skins/Shiori-magicalgirl-sprite-normal.png
+- skins/Cool-beast-bow-kashiwazaki_shiori_normal_start-1-normal.png
+- skins/Cool-beast-bow-kashiwazaki_shiori_rare_start-1-normal.png

@@ -1,0 +1,32 @@
+dialogs:
+- audio: null
+  dialog: Thieves have been plaguing this city!? That's an insult to hardworking people!
+    I can't let this go!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Today is the special sale! Of course, you should come along, too! If you
+    let your guard down, it could cost you your life! With that said... Charge!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Um, do you... have a type that you like? Huh? I... I'm just curious. That's
+    all.
+  event: onClick
+  language: en
+- audio: null
+  dialog: If there's anyone who wants to hurt you... I'll take them out just like
+    that! Because you're my precious student!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I'll serve as your teacher! Of course, I can't do that for free. I'll be
+    expecting hourly pay.
+  event: onLogin
+  language: en
+skins:
+- skins/Cool-human-spear-ogami_mifuyu_rare_gacha004-0-normal.png
+- skins/Mifuyu-summer-sprite-normal.png
+- skins/Cool-human-spear-ogami_mifuyu_rare_gacha004-1-normal.png
+- skins/Cool-human-spear-ogami_mifuyu_normal_start-1-normal.png
+- skins/Mifuyu-realsummer-sprite-normal.png

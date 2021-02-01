@@ -1,0 +1,8 @@
+dialogs:
+- audio: null
+  dialog: At last, Christina has returned to service! Give me a grand welcome!
+  event: onLogin
+  language: en
+skins:
+- skins/Christina-astrum-sprite-normal.png
+- skins/Christina-casual-sprite-normal.png

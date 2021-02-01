@@ -1,0 +1,10 @@
+dialogs:
+- audio: null
+  dialog: Pew pew pew! All the bad guys will be taken out by Magical Girl Nanaka!
+    But I'll go easy on you if you have a rare book or something!
+  event: onLogin
+  language: en
+skins:
+- skins/Pop-fiend-staff-tanno_nanaka_rare_start-0-normal.png
+- skins/Pop-fiend-staff-tanno_nanaka_normal_start-1-normal.png
+- skins/Pop-fiend-staff-tanno_nanaka_rare_start-1-normal.png

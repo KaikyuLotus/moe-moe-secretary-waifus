@@ -1,0 +1,29 @@
+dialogs:
+- audio: null
+  dialog: Ahh, I never imagined that this place would be made just for me... I don't
+    think I want to go home.
+  event: onClick
+  language: en
+- audio: null
+  dialog: Having a warm bed is nice, too, but being all wrapped up in nature is pretty
+    great, too...
+  event: onClick
+  language: en
+- audio: null
+  dialog: Hey, hey, come over here, too! Let's enjoy this paradise together! There's
+    a spot right next to me!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Thanks for showing me such an amazing place! If it's for something like
+    this, I'll go outside anytime, so you should come here with me again.
+  event: onClick
+  language: en
+- audio: null
+  dialog: Eh... I'm sleeping, so keep it down, okay?
+  event: onLogin
+  language: en
+skins:
+- skins/Cute-beast-longsword-morichika_rin_rare_gacha005-0-normal.png
+- skins/Cute-beast-longsword-morichika_rin_rare_gacha005-1-normal.png
+- skins/Cute-beast-longsword-morichika_rin_normal_start-1-normal.png

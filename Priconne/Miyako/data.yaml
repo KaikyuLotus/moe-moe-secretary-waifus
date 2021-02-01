@@ -1,0 +1,31 @@
+dialogs:
+- audio: null
+  dialog: I definitely won't give anyone else my pudding! If you try to steal even
+    a bite, I'll haunt you in your dreams!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Ghosts are things that people are scared of, you know. You should also be
+    more scared!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Umm...! You and pudding, which one is more important? ... You and pudding?
+    Yeah, both!
+  event: onClick
+  language: en
+- audio: null
+  dialog: It's not fair if only I get to be a ghost! You should also die so that you
+    can be a ghost, too! That way, we can be together forever!
+  event: onClick
+  language: en
+- audio: null
+  dialog: First is pudding, second is pudding, third and fourth are pudding, and fifth
+    is, obviously, pudding!
+  event: onLogin
+  language: en
+skins:
+- skins/Pop-fiend-ax-izumo_miyako_rare_start-0-normal.png
+- skins/Miyako-halloween-sprite-normal.png
+- skins/Pop-fiend-ax-izumo_miyako_normal_start-1-normal.png
+- skins/Pop-fiend-ax-izumo_miyako_rare_start-1-normal.png

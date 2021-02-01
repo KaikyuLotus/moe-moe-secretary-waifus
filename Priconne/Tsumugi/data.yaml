@@ -1,0 +1,30 @@
+dialogs:
+- audio: null
+  dialog: I'll be fine no matter how many enemies come! Because you're here by my
+    side! ... I didn't mean that in a weird way, okay!?
+  event: onClick
+  language: en
+- audio: null
+  dialog: You're being too close -- could you back off a bit? Or else I'll end up
+    venting all my daily frustrations on you.
+  event: onClick
+  language: en
+- audio: null
+  dialog: Once we have some extra materials, I should make something for you. That's
+    right... What should it be?
+  event: onClick
+  language: en
+- audio: null
+  dialog: Lately, have you been getting along just as usual withRei...? I-I'm just
+    curious!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I can tell someone's three sizes just from a single glance! So, don't you
+    lie about your body to me.
+  event: onLogin
+  language: en
+skins:
+- skins/Pop-human-knuckle-mayumiya_tsumugi_rare_raidmedal005-0-normal.png
+- skins/Tsumugi-idolastrum-sprite-normal.png
+- skins/Pop-human-knuckle-mayumiya_tsumugi_rare_raidmedal005-1-normal.png

@@ -1,0 +1,10 @@
+dialogs:
+- audio: null
+  dialog: If that's how it is, then let me hear your orders. You can count on me to
+    provide a good foundation.
+  event: onLogin
+  language: en
+skins:
+- skins/Cool-human-katana-tachiarai_ruka_rare_gacha014-0-normal.png
+- skins/Cool-human-katana-tachiarai_ruka_normal_chapter002-1-normal.png
+- skins/Cool-human-katana-tachiarai_ruka_rare_gacha014-1-normal.png

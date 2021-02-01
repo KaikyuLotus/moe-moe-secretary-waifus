@@ -1,0 +1,9 @@
+dialogs:
+- audio: null
+  dialog: "\"Pff\u2026 Everyone here is just mental. What a shithole\u2026 This sucks.\""
+  event: onLogin
+  language: en
+skins:
+- skins/Chloe-astrum-sprite-normal.png
+- skins/Chloe-uniform-sprite-normal.png
+- skins/Chloe-casual-sprite-normal.png

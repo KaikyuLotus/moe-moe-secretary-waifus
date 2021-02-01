@@ -1,0 +1,9 @@
+dialogs:
+- audio: null
+  dialog: I wish to come into my own as a sky knight. One day, I'll become one just
+    like my father, and travel to the very limits of the sky. That's my dream!
+  event: onLogin
+  language: en
+skins:
+- skins/Cute-human-longsword-djeeta_djeeta_normal_collabo001-0-normal.png
+- skins/Cute-human-longsword-djeeta_djeeta_normal_collabo001-1-normal.png

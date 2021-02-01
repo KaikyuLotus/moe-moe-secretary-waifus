@@ -1,0 +1,36 @@
+dialogs:
+- audio: null
+  dialog: My arrow of love will make all the fans fall crazy in love with me! And
+    of course, you, too!
+  event: onClick
+  language: en
+- audio: null
+  dialog: For this time's photo shoot, I've been thinking up some new poses! How's
+    this one? Doesn't it give off a strong-and-cute vibe?
+  event: onClick
+  language: en
+- audio: null
+  dialog: Whoa! The sea is super pretty! I've seen it so many times, but I think this
+    is the prettiest it's ever been! Is it because I'm seeing it with you?
+  event: onClick
+  language: en
+- audio: null
+  dialog: When we were doing modeling together, people thought that you were my boyfriend!
+    Super funny! But also, I kind of feel... Umm, never mind!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Don't miss now! Let's go! Heart Break!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Hey, hey, how much of the times table do you remember? No way? Really? Super
+    genius!
+  event: onLogin
+  language: en
+skins:
+- skins/Pop-fiend-bow-minami_suzuna_rare_gacha003-0-normal.png
+- skins/Suzuna-summer-sprite-special.png
+- skins/Pop-fiend-bow-minami_suzuna_normal_start-1-normal.png
+- skins/Pop-fiend-bow-minami_suzuna_rare_gacha003-1-normal.png
+- skins/Suzuna-realsummer-sprite-special.png

@@ -1,0 +1,32 @@
+dialogs:
+- audio: null
+  dialog: No matter what happens, your big sister is going to protect her little brother.
+    I won't let anyone even lay a finger on you!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Your big sister became strong in order to protect her little brother. I'll
+    be your shield, your sword, and your armor.
+  event: onClick
+  language: en
+- audio: null
+  dialog: I won't allow any boorish thug to come between me and my little brother!
+    That would deserve far worse than just a spanking!
+  event: onClick
+  language: en
+- audio: null
+  dialog: To bully my little brother -- even if the gods will it, even if the heavens
+    overlook it, your big sister will not allow it!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I see, I see... I'll tell you about all kinds of things. A-hem, just leave
+    it to your big sister!
+  event: onLogin
+  language: en
+skins:
+- skins/Cool-human-longsword-hoshino_shizuru_rare_limitedraid150205-0-normal.png
+- skins/Shizuru-valentines-sprite-normal.png
+- skins/Shizuru-magical-sprite-normal.png
+- skins/Cool-human-longsword-hoshino_shizuru_normal_start-1-normal.png
+- skins/Cool-human-longsword-hoshino_shizuru_rare_limitedraid150205-1-normal.png

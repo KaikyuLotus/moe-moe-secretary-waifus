@@ -1,0 +1,31 @@
+dialogs:
+- audio: null
+  dialog: Each time the BB Team meets, the thing I look forward to most is seeing
+    you... Every day, I've started wishing that tomorrow could come a little bit quicker!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Hee hee... No matter how many friends I manage to make, you'll always be
+    my best one... So don't worry about a thing!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Even if I only have a little power right now, I still want to support everyone.
+    If I do that, then... Maybe, one day, I'll be able to make some more friends?
+  event: onClick
+  language: en
+- audio: null
+  dialog: Even on my own... There have to be things that I can still achieve. I'll
+    do all I can!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I'd... like to make some friends... And if you could, I'd be happy if you
+    would help me...
+  event: onLogin
+  language: en
+skins:
+- skins/Cool-elf-bow-futaba_aoi_rare_start-0-normal.png
+- skins/Aoi-transferstudent-sprite-normal.png
+- skins/Cool-elf-bow-futaba_aoi_normal_start-1-normal.png
+- skins/Cool-elf-bow-futaba_aoi_rare_start-1-normal.png

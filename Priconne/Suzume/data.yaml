@@ -1,0 +1,58 @@
+dialogs:
+- audio: null
+  dialog: I'm sorry for always messing up... I, I'll feed you as an apology! Eh, is
+    that more annoying?
+  event: onClick
+  language: en
+- audio: null
+  dialog: I'm careful with my surroundings-- Wah! Ah, I hit my head.
+  event: onClick
+  language: en
+- audio: null
+  dialog: I'll do my best in serving you! Please ask me for anything, okay?
+  event: onClick
+  language: en
+- audio: null
+  dialog: Um... I'll work hard at cleaning everything, so could you praise me...?
+  event: onClick
+  language: en
+- audio: null
+  dialog: Happy Birthday, congratulations on the cake! I, I'll move it gently so it
+    doesn't fall over.
+  event: onClick
+  language: en
+- audio: null
+  dialog: This Golem was abandoned on the side of the road
+  event: onClick
+  language: en
+- audio: null
+  dialog: Can you help me in cleaning up Golem? Ehehe, thank you so much
+  event: onClick
+  language: en
+- audio: null
+  dialog: "Are you hurt? I'm good at recovery magic \u266A Other magic though... Well..."
+  event: onClick
+  language: en
+- audio: null
+  dialog: Ah! I did it again~ I was being so careful so I didn't fall in front of
+    you~
+  event: onClick
+  language: en
+- audio: null
+  dialog: Welcome home, Master. What? Ehehe...
+  event: onClick
+  language: en
+- audio: null
+  dialog: "Happy Birthday \u266A May I celebrate your birthday as an ordinary girl\
+    \ just for today... maybe?"
+  event: onClick
+  language: en
+- audio: null
+  dialog: To wait on my mistress is my -- Waah! Ow, I hit my head...
+  event: onLogin
+  language: en
+skins:
+- skins/Cute-human-staff-amano_suzume_rare_start-0-normal.png
+- skins/Suzume-summer-sprite-normal.png
+- skins/Suzume-newyear-sprite-normal.png
+- skins/Cute-human-staff-amano_suzume_rare_start-1-normal.png
