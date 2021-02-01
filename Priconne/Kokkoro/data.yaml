@@ -1,0 +1,31 @@
+dialogs:
+- audio: null
+  dialog: If anything should happen, please call on me. I will devote my all towards
+    fulfilling your request.
+  event: onClick
+  language: en
+- audio: null
+  dialog: Ever since I was young, the spirits spoke to me of the day when I would
+    meet you. Please, order me as you will.
+  event: onClick
+  language: en
+- audio: null
+  dialog: The spirits also seem pleased when you are watching, Master.
+  event: onClick
+  language: en
+- audio: null
+  dialog: I, together with nature, will be your strength.
+  event: onClick
+  language: en
+- audio: null
+  dialog: I was appointed to serve as your guide, Master. With all my heart, I'll
+    do everything I can to serve you to your satisfaction.
+  event: onLogin
+  language: en
+skins:
+- skins/Kokkoro-astrum1-sprite-normal.png
+- skins/Kokkoro-summer-sprite-normal.png
+- skins/Kokkoro-newyear-sprite-normal.png
+- skins/Kokkoro-princess-sprite-normal.png
+- skins/Kokkoro-real-sprite-normal.png
+- skins/Kokkoro-summerreal-sprite-normal.png

@@ -1,0 +1,63 @@
+dialogs:
+- audio: null
+  dialog: Perfect, perfect! I just keep on improving! I really can do anything!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Heh heh, beautiful, huh? I'll let you in on a secret -- I was still just
+    an apprentice until recently. H... Hey, act more surprised!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I can use healing magic pretty well. If you had some kind of emergency,
+    I wouldn't be unable to save you. Though, it'd be better if that didn't happen
+    at all.
+  event: onClick
+  language: en
+- audio: null
+  dialog: You saw it, didn't you -- my secret magical practice. In that case, I'm
+    bringing you along, too!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I wonder if you're prepared for this? Grim Burst!
+  event: onClick
+  language: en
+- audio: null
+  dialog: H-Hey, isn't this tube leaking? It's leaking, isn't it!? And aren't there
+    monsters in the water!? EEK! Don't come over here!
+  event: onClick
+  language: en
+- audio: null
+  dialog: What are you looking at me with that envious face for? You want some of
+    this juice? I guess I can't say no -- but just a sip!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Having a nice drink after sweating a lot is the best! Ahhh, tasty!
+  event: onClick
+  language: en
+- audio: null
+  dialog: You look tired. Do you want to sit on this tube with me and relax for a
+    bit?
+  event: onClick
+  language: en
+- audio: null
+  dialog: I feel so happy... Is this because of you? ... Um, th... thank... N-Never
+    mind!
+  event: onClick
+  language: en
+- audio: null
+  dialog: D-Don't look over here! Quit staring at me!
+  event: onClick
+  language: en
+- audio: null
+  dialog: There's no other way around it, so I'll look after you. You'd better thank
+    me for this, okay?
+  event: onLogin
+  language: en
+skins:
+- skins/Kyaru-astrum2-sprite-normal.png
+- skins/Kyaru-summer-sprite-normal.png
+- skins/Kyaru-newyear-sprite-normal.png
+- skins/Kyaru-real-sprite-normal.png

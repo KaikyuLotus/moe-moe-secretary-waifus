@@ -1,0 +1,8 @@
+dialogs:
+- audio: null
+  dialog: Someday, I will be the guardian of the forest, along with Losaria!
+  event: onLogin
+  language: en
+skins:
+- skins/Arisa-astrum-sprite-normal.png
+- skins/Arisa-uniform-sprite-normal.png

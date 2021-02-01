@@ -1,0 +1,32 @@
+dialogs:
+- audio: null
+  dialog: Whenever my father sees this dance, he praises me by saying he feels like
+    he's going to pass into the afterlife. If he were to do that, it would be most
+    troublesome...
+  event: onClick
+  language: en
+- audio: null
+  dialog: When you compliment me, my dance always improves. Your aura is most suitable
+    for exorcising spirits.
+  event: onClick
+  language: en
+- audio: null
+  dialog: You are the first living person to see my dance. I'm embarrassed, but...
+    I also would like you to see.
+  event: onClick
+  language: en
+- audio: null
+  dialog: You think my dance is pretty...? ... I'm so happy. My training has paid
+    off.
+  event: onClick
+  language: en
+- audio: null
+  dialog: '"Today''s fortune is the worst. Um, but please don''t worry about it. Incidentally...
+    My readings are often correct."'
+  event: onLogin
+  language: en
+skins:
+- skins/Cute-fiend-katana-kamiki_shinobu_rare_raidmedal004-0-normal.png
+- skins/Shinobu-halloween-sprite-normal.png
+- skins/Cute-fiend-katana-kamiki_shinobu_rare_raidmedal004-1-normal.png
+- skins/Cute-fiend-katana-kamiki_shinobu_normal_start-1-normal.png

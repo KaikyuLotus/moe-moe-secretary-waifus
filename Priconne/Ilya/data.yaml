@@ -1,0 +1,30 @@
+dialogs:
+- audio: null
+  dialog: You'd like to hear of my dreams? Of course, I dream of world conquest! That
+    has been my goal ever since I was born.
+  event: onClick
+  language: en
+- audio: null
+  dialog: I am the vampire of legend. Snuffing out your life would be an easy thing
+    for me... But you are a member of my house, so I'll let you live for now.
+  event: onClick
+  language: en
+- audio: null
+  dialog: If I should succeed in conquering the world, perhaps I'll grant half of
+    it to you... Do you understand my meaning?
+  event: onClick
+  language: en
+- audio: null
+  dialog: In order to see you during the day, I've recently reversed my sleep cycle...
+    Being out during the day is surely not good for my beauty...
+  event: onClick
+  language: en
+- audio: null
+  dialog: I am the ruler of the night, Iliya Ornstein! If you serve me well, then
+    I will allow you to be a member of my house!
+  event: onLogin
+  language: en
+skins:
+- skins/Ilya-adultastrum-sprite-normal.png
+- skins/Ilya-childastrum-sprite-normal.png
+- skins/Ilya-real-sprite-normal.png

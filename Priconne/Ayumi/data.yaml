@@ -1,0 +1,25 @@
+dialogs:
+- audio: null
+  dialog: Thank you for letting me help you! I-I'll do my best!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I'm afraid to fight, but now that I have senpai I feel like I can do it!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I'm always helped so... This time I'll help my senpai! I'll repay the favour!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Please come down, senpai! I-I... A monster... Ahh, please help me
+  event: onClick
+  language: en
+- audio: null
+  dialog: "\u201CI-I'm not a stalker... I just... am happy watching over Yuuki from\
+    \ afar...\u201D"
+  event: onLogin
+  language: en
+skins:
+- skins/Pop-elf-spear-ishibashi_ayumi_normal_chapter004-0-normal.png
+- skins/Pop-elf-spear-ishibashi_ayumi_normal_chapter004-1-normal.png

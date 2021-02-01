@@ -1,0 +1,28 @@
+dialogs:
+- audio: null
+  dialog: This is my secret flower meadow! But I'm telling you about it specially.
+    Because I really love you!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Me and Little Griffon both love you,Yuuki! I'm so happy when we're all together.
+  event: onClick
+  language: en
+- audio: null
+  dialog: Ah, Little Griffon is so fast! Yuuki, hurry, hurry!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I want to make a flower wreath. Once it's done, I'll put it on you, Yuuki!
+  event: onClick
+  language: en
+- audio: null
+  dialog: "Mr. Rabbit \u266A Mrs. Cat \u266A Mr. Raccoon \u266A Everyone, everyone,\
+    \ everybody's friends~"
+  event: onLogin
+  language: en
+skins:
+- skins/Cute-beast-longsword-akane_mimi_normal_start-0-joy.png
+- skins/Mimi-halloween-sprite-normal.png
+- skins/Cute-beast-longsword-akane_mimi_normal_start-1-normal.png
+- skins/Cute-beast-longsword-akane_mimi_rare_limitedraid150205-1-normal.png

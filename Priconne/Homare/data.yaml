@@ -1,0 +1,8 @@
+dialogs:
+- audio: null
+  dialog: I heard that a gang has caught a dragon tribe so I came to lend a helping
+    hand. Of course, the two of you will protect me and my guild~
+  event: onLogin
+  language: en
+skins:
+- skins/Homare-astrum-sprite-normal.png

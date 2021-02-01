@@ -1,0 +1,9 @@
+dialogs:
+- audio: null
+  dialog: Eh, was being cute a crime in Landsol? I'm sorry but I'm fairly cute, is
+    it OK? Do I still have rights?
+  event: onLogin
+  language: en
+skins:
+- skins/Chieru-astrum-sprite-normal.png
+- skins/Chieru-real-sprite-normal.png

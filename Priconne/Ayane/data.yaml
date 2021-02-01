@@ -1,0 +1,29 @@
+dialogs:
+- audio: null
+  dialog: There's that monster who was bullyingYuuki! I won't let you get away with
+    this! Let's get them, Puukichi! / I'm with you, Ayane!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Y-Yuuki! If you keep wandering around like that, Puukichi's gonna hit you!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Hey! Yah! Monster! D-Don't come over here! Ah, don't go that way either!
+    Don't go towards Yuuki!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Yuuki, watch this! I'll show you the results of my Puukichi Full Swing training!
+  event: onClick
+  language: en
+- audio: null
+  dialog: This kid's name is 'Puukichi'. He might be a weapon, but he can also talk!
+    He's my super, super important friend!
+  event: onLogin
+  language: en
+skins:
+- skins/Cute-human-ax-hojo_ayane_rare_start-0-normal.png
+- skins/Ayane-christmas-sprite-normal.png
+- skins/Cute-human-ax-hojo_ayane_normal_start-1-normal.png
+- skins/Cute-human-ax-hojo_ayane_rare_start-1-normal.png

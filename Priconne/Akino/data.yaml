@@ -1,0 +1,28 @@
+dialogs:
+- audio: null
+  dialog: These kinds of enemies cannot stand up to me. Let us clean up quickly, and
+    move onto the celebratory feast!
+  event: onClick
+  language: en
+- audio: null
+  dialog: As for thugs who would disrupt my business, no matter whom they are, I will
+    not let them go! I will punish them!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Your presence, by my side... I wonder if you've realized how much stronger
+    it makes me?
+  event: onClick
+  language: en
+- audio: null
+  dialog: When I'm together with you, wherever I go, I feel as though I can go there
+    straight ahead, without ever losing my way!
+  event: onClick
+  language: en
+- audio: null
+  dialog: You over there, how much will it cost for you to become my knight?
+  event: onLogin
+  language: en
+skins:
+- skins/Cute-human-longsword-toudou_akino_rare_start-0-normal.png
+- skins/Cute-human-longsword-toudou_akino_rare_start-1-normal.png

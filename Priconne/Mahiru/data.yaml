@@ -1,0 +1,31 @@
+dialogs:
+- audio: null
+  dialog: Come, everyone, have a taste! These were just picked, so they're really
+    tasty! I'm not joking around -- though I do that a lot, too!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Everyone in this town is so supportive! I'm definitely going to get some
+    laughs!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Do you like my jokes? No matter how you slice it, you were my very first
+    fan, so we've gotta be on the same wavelength!
+  event: onClick
+  language: en
+- audio: null
+  dialog: H-Hey... Are you okay with 'partner' as a nickname? If you're not, I could
+    call you 'hubby' instead... W-Wait, I'm getting ahead of myself! That's super
+    embarrassing!
+  event: onClick
+  language: en
+- audio: null
+  dialog: If you're interested in comedy, do you wanna be my partner? I've been looking
+    for just the right person. Think about it, okay?
+  event: onLogin
+  language: en
+skins:
+- skins/Cute-human-spear-noto_mahiru_normal_start-0-normal.png
+- skins/Cute-human-spear-noto_mahiru_rare_raidmedal006-1-normal.png
+- skins/Cute-human-spear-noto_mahiru_normal_start-1-normal.png

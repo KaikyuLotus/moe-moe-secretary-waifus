@@ -1,0 +1,32 @@
+dialogs:
+- audio: null
+  dialog: Hey, would you mind taking my hand? Thank you -- I'm so happy... And now,
+    as I light your steps for you, let's move on together!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I'll light your path for you, Mister Prince. This way, you can be at ease
+    as you stay by my side!
+  event: onClick
+  language: en
+- audio: null
+  dialog: As long as I'm with you, Mister Prince, everywhere we go becomes a fairytale
+    world! So, Mister Prince, take Princess Maho along, and let's set out exploring!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Let's walk together the entire way! Even if we go down the wrong path every
+    so often, with both of us together, there's nothing to worry about at all! Isn't
+    that right, my dear Mister Prince?
+  event: onClick
+  language: en
+- audio: null
+  dialog: Thanks a lot! Mister Prince, you really were the one who saved me, weren't
+    you? Ehehe, just like in picture books!
+  event: onLogin
+  language: en
+skins:
+- skins/Pop-beast-staff-himemiya_maho_rare_gacha002-0-normal.png
+- skins/Maho-summer-sprite-normal.png
+- skins/Pop-beast-staff-himemiya_maho_rare_gacha002-1-normal.png
+- skins/Pop-beast-staff-himemiya_maho_normal_start-1-normal.png

@@ -1,0 +1,30 @@
+dialogs:
+- audio: null
+  dialog: I can see it in your eyes -- you'll never give up, will you? You really
+    are incredible. My expectations of you were right.
+  event: onClick
+  language: en
+- audio: null
+  dialog: You're getting stronger and stronger. It looks like you're not nearly at
+    your limit yet... Prove to me that it's true.
+  event: onClick
+  language: en
+- audio: null
+  dialog: (What a mysterious feeling... I wish that things could go on like this forever,
+    but... That couldn't possibly happen, could it?)
+  event: onClick
+  language: en
+- audio: null
+  dialog: I know I said that I would do anything you requested, but... Nothing indecent,
+    all right...?
+  event: onClick
+  language: en
+- audio: null
+  dialog: If we are together, we are stronger. Let's stick together from now on.
+  event: onLogin
+  language: en
+skins:
+- skins/Cool-fiend-katana-shijo_rei_rare_start-0-normal.png
+- skins/Rei-newyear-sprite-normal.png
+- skins/Cool-fiend-katana-shijo_rei_normal_start-1-normal.png
+- skins/Cool-fiend-katana-shijo_rei_rare_start-1-normal.png

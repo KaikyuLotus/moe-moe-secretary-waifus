@@ -1,0 +1,30 @@
+dialogs:
+- audio: null
+  dialog: Yuuki, you really want to see me like that? Well, it's embarrassing, but...
+    Here I go! This is the Akari spin!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Hah... hah... I can't do anymore... Because you said that I was doing really
+    well, I accidentally spun around too much!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I'm all dizzy! Yuuki, give me a hug! You're the reason I got like this,
+    so... Take responsibility!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I don't let just anyone see me like this, you know? You're special to me,
+    so I want you to see every side of me!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Hahh... hahh... No more! If this goes on... I'm going to become an unseemly
+    person, you know!
+  event: onLogin
+  language: en
+skins:
+- skins/Pop-fiend-spear-kazemiya_akari_rare_gacha013-0-normal.png
+- skins/Pop-fiend-spear-kazemiya_akari_normal_start-1-normal.png
+- skins/Pop-fiend-spear-kazemiya_akari_rare_gacha013-1-normal.png

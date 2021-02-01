@@ -1,0 +1,31 @@
+dialogs:
+- audio: null
+  dialog: Because I like you so much, I need to prepare all sorts of pranks just for
+    you!
+  event: onClick
+  language: en
+- audio: null
+  dialog: You know, I feel you're just like a real big brother to me now, and that
+    makes me super happy!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Misogi's Expeditionary Team is all assembled! It's actually just you and
+    me, though.
+  event: onClick
+  language: en
+- audio: null
+  dialog: From now on, I'm gonna play you a lot,Yuuki! ... Um, I meant play WITH you,
+    okay?
+  event: onClick
+  language: en
+- audio: null
+  dialog: All right, my prank is all set up! Once I catch him... Ah -- did you maybe
+    just see me?
+  event: onLogin
+  language: en
+skins:
+- skins/Pop-human-knuckle-hodaka_misogi_rare_gacha008-0-normal.png
+- skins/Misogi-halloween-sprite-normal.png
+- skins/Pop-human-knuckle-hodaka_misogi_normal_start-1-normal.png
+- skins/Pop-human-knuckle-hodaka_misogi_rare_gacha008-1-normal.png

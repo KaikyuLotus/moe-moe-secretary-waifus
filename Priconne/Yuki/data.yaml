@@ -1,0 +1,30 @@
+dialogs:
+- audio: null
+  dialog: This precious thing that is here with me... The excitement of preparing
+    it together with you... This world is full of hope
+  event: onClick
+  language: en
+- audio: null
+  dialog: "Any kind of jewel or treasure... Can't outshine my beauty... I am so sinful\
+    \ \u266A"
+  event: onClick
+  language: en
+- audio: null
+  dialog: "Ahh, I truly am beautiful \u266A To express my beauty... No, there is no\
+    \ words that can express that!"
+  event: onClick
+  language: en
+- audio: null
+  dialog: It doesn't have to be said, but there's no shame in not being as beautiful
+    as me. That's a goal too far out of reach for others.
+  event: onClick
+  language: en
+- audio: null
+  dialog: '"Ah, it''s you! Good timing! My beauty knows no such thing as stopping!
+    ''Stop,'' you say! No -- it will not stop!"'
+  event: onLogin
+  language: en
+skins:
+- skins/Pop-elf-staff-nijimura_yuki_rare_gacha010-0-normal.png
+- skins/Pop-elf-staff-nijimura_yuki_rare_gacha010-1-normal.png
+- skins/Pop-elf-staff-nijimura_yuki_normal_start-1-normal.png

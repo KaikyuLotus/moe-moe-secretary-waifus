@@ -1,0 +1,9 @@
+dialogs:
+- audio: null
+  dialog: My my, you guys shouldn't play pranks, okay?
+  event: onLogin
+  language: en
+skins:
+- skins/Pop-elf-shortsword-aikawa_misato_rare_raidmedal001-0-normal.png
+- skins/Pop-elf-shortsword-aikawa_misato_normal_start-1-normal.png
+- skins/Pop-elf-shortsword-aikawa_misato_rare_raidmedal001-1-normal.png

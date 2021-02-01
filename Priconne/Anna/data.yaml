@@ -1,0 +1,28 @@
+dialogs:
+- audio: null
+  dialog: I'll give you a rare look at my 'Annihilate Form', which sheds all defense
+    to specialize on the attack! ... H-Hey, where are you looking!?
+  event: onClick
+  language: en
+- audio: null
+  dialog: Sigurd... Because of you, I can always remain true to myself. So... Thank
+    you.
+  event: onClick
+  language: en
+- audio: null
+  dialog: Within this eye, a soul is engraved...! This is the secret behind my forbidden
+    ultimate spell!
+  event: onClick
+  language: en
+- audio: null
+  dialog: If you also have special techniques, then you should use them stylishly!
+    Like, for example...
+  event: onClick
+  language: en
+- audio: null
+  dialog: You've surely heard it, the call of my voice! I am... Hecate of the Gale!
+  event: onLogin
+  language: en
+skins:
+- skins/Pop-fiend-longsword-hiiragi_anna_rare_start-0-normal.png
+- skins/Pop-fiend-longsword-hiiragi_anna_rare_start-1-normal.png

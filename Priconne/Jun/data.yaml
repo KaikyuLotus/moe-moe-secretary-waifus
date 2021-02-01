@@ -1,0 +1,31 @@
+dialogs:
+- audio: null
+  dialog: When I am fighting, knowing that you are watching over me from behind sets
+    my heart at ease.
+  event: onClick
+  language: en
+- audio: null
+  dialog: As the guild master, I must protect the peace for all the people. Yet, I
+    feel as though your safety comes even before that, now...
+  event: onClick
+  language: en
+- audio: null
+  dialog: I wield this sword to create a world in which I no longer need it.
+  event: onClick
+  language: en
+- audio: null
+  dialog: No matter how powerful my opponent may be, I will face them without fear
+    -- so that the children may go on smiling.
+  event: onClick
+  language: en
+- audio: null
+  dialog: Ah... I don't intend to distrust you or to slight you. It's just that, as
+    you can see, beverages cannot reach my mouth. This helmet really does get in the
+    way.
+  event: onLogin
+  language: en
+skins:
+- skins/Cool-human-longsword-shirogane_jun_normal_start-0-normal.png
+- skins/Cool-human-longsword-shirogane_jun_srare_gacha015-1-normal.png
+- skins/Cool-human-longsword-shirogane_jun_normal_start-1-normal.png
+- skins/Cool-human-longsword-shirogane_jun_rare_gacha012-1-normal.png

@@ -1,0 +1,31 @@
+dialogs:
+- audio: null
+  dialog: I can hear it...Yuuki's voice. No matter how far apart we are, I can always
+    hear you!
+  event: onClick
+  language: en
+- audio: null
+  dialog: No matter who my opponent is, I feel like I can't lose...! Because there's
+    someone who believes in me!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I need to become stronger...! Because I want everyone to be able to smile...
+    always!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Even if I get hurt all over, I'll be fine! As long as there are people who
+    believe in me... I can make it through anything!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Let's help each other out when we're in trouble! Let's discuss any questions
+    we have! That's the way it should be!
+  event: onLogin
+  language: en
+skins:
+- skins/Pop-beast-knuckle-harusaki_hiyori_rare_start-0-normal.png
+- skins/Hiyori-newyear-sprite-normal.png
+- skins/Pop-beast-knuckle-harusaki_hiyori_normal_start-1-normal.png
+- skins/Pop-beast-knuckle-harusaki_hiyori_rare_start-1-normal.png

@@ -1,0 +1,29 @@
+dialogs:
+- audio: null
+  dialog: I... I twisted my ankle... How embarrassing...
+  event: onClick
+  language: en
+- audio: null
+  dialog: Ah... Why is it that, whenever that person is around, I end up looking uncool...
+  event: onClick
+  language: en
+- audio: null
+  dialog: I-I'm not afraid of any monsters! B-But, um... You really helped me out
+    by protecting me...
+  event: onClick
+  language: en
+- audio: null
+  dialog: Monsters appear outside of town, so it's dangerous. That's why I'll protect
+    you.
+  event: onClick
+  language: en
+- audio: null
+  dialog: You can't grow tall without eating bell peppers and carrots...? Uuu, I wanna
+    be tall but...
+  event: onLogin
+  language: en
+skins:
+- skins/Cool-elf-staff-hikawa_kyoka_rare_start-0-normal.png
+- skins/Kyouka-halloween-sprite-normal.png
+- skins/Cool-elf-staff-hikawa_kyoka_rare_start-1-normal.png
+- skins/Cool-elf-staff-hikawa_kyoka_normal_start-1-normal.png

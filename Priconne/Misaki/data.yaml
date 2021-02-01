@@ -1,0 +1,32 @@
+dialogs:
+- audio: null
+  dialog: After we go clearing out monsters together, we can use the pay to have a
+    fancy dinner together! That would be super grown-up! I-It's not a date, though!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I'm a grown-up lady, so hunting monsters is easy for me! But I know you'll
+    be worried no matter what, so why don't you come along?
+  event: onClick
+  language: en
+- audio: null
+  dialog: Earlier, I beat up a monster and got a whole bunch of treasure! But my parents
+    said that little kids don't need so much money, so they took it all away...
+  event: onClick
+  language: en
+- audio: null
+  dialog: Out of the way, monsters! Lady Misaki is coming through! You, escort me
+    properly!
+  event: onClick
+  language: en
+- audio: null
+  dialog: H-Huh!? Because it's almost 5 o'clock, you think I should go home!? Like
+    I said! Don't treat me like a kid!
+  event: onLogin
+  language: en
+skins:
+- skins/Cool-fiend-staff-tamaizumi_misaki_rare_gacha018-0-normal.png
+- skins/Misaki-halloween-sprite-normal.png
+- skins/Misaki-summer-sprite-normal.png
+- skins/Cool-fiend-staff-tamaizumi_misaki_rare_gacha018-1-normal.png
+- skins/Cool-fiend-staff-tamaizumi_misaki_normal_start-1-normal.png

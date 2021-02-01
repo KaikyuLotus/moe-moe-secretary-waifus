@@ -1,0 +1,28 @@
+dialogs:
+- audio: null
+  dialog: Does 'practice makes parting' mean that I shouldn't ask big brother to tutor
+    me?
+  event: onClick
+  language: en
+- audio: null
+  dialog: Hee hee, if things go on like this... Then the day when I'll be aiming for
+    big brother's heart is pretty close, isn't it?
+  event: onClick
+  language: en
+- audio: null
+  dialog: Anyone who wants to hurt my big brother -- with this bow, I'll shoot them
+    all down!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I'm gonna mess you up! Arrow Rain!
+  event: onClick
+  language: en
+- audio: null
+  dialog: So, like, I heard someone say that they've been 'selling hotcakes' lately!
+    Hurry, let's go get some to eat!
+  event: onLogin
+  language: en
+skins:
+- skins/Pop-human-bow-inosaki_rino_rare_start-0-normal.png
+- skins/Pop-human-bow-inosaki_rino_rare_start-1-normal.png

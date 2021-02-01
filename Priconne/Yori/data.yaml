@@ -1,0 +1,9 @@
+dialogs:
+- audio: null
+  dialog: H-hey. I need to tell you that... N-never mind, i-it's nothing!
+  event: onLogin
+  language: en
+skins:
+- skins/Cute-fiend-spear-kazemiya_yori_rare_gacha006-0-normal.png
+- skins/Cute-fiend-spear-kazemiya_yori_normal_start-1-normal.png
+- skins/Cute-fiend-spear-kazemiya_yori_rare_gacha006-1-normal.png

@@ -1,0 +1,7 @@
+dialogs:
+- audio: null
+  dialog: '-'
+  event: onLogin
+  language: en
+skins:
+- skins/Emilia-astrum-sprite-normal.png

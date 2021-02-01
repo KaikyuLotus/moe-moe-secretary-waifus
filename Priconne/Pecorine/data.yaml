@@ -1,0 +1,33 @@
+dialogs:
+- audio: null
+  dialog: We need to manage our food carefully! ... Well, since I'm here, I guess
+    we won't have any leftovers anyway, but...
+  event: onClick
+  language: en
+- audio: null
+  dialog: My favorite foods? Hmm... I'd have to go with 'edible things,' and 'drinkable
+    things' too!
+  event: onClick
+  language: en
+- audio: null
+  dialog: "When I'm sharing a meal with a boy, my heart races a little... Terrible,\
+    \ huh? \u2606"
+  event: onClick
+  language: en
+- audio: null
+  dialog: The type of boy I like? ... The type that doesn't waste food!
+  event: onClick
+  language: en
+- audio: null
+  dialog: "How crazy is that!? \u2606"
+  event: onClick
+  language: en
+- audio: null
+  dialog: "Heyas! \u2606 I'm the perpetually peckish Pecorine!"
+  event: onLogin
+  language: en
+skins:
+- skins/Pecorine_sprite_normal.png
+- skins/Pecorine-summer-sprite-normal.png
+- skins/Pecorine-newyear-sprite-normal.png
+- skins/Pecorine-real-sprite-normal.png

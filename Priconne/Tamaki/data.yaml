@@ -1,0 +1,33 @@
+dialogs:
+- audio: null
+  dialog: After this, I thought we could eat together, so I brought taiyaki. We can
+    each eat half!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Even now, if there are people who are in trouble, it wouldn't do not to
+    help them! Tonight, the cats and I will be flying all around, for the sake of
+    justice!
+  event: onClick
+  language: en
+- audio: null
+  dialog: This time, it'd be nice if you came to play in the guild house. Nya ha ha...
+    This way, we'll have some extra labor... Ah, it's nothing!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I might be whimsical, but I'm a serious cat when I need to be! Is today
+    one of those days? In that case... I'm going full blast!
+  event: onClick
+  language: en
+- audio: null
+  dialog: If we're talking about making money, then I'm all ears! When it comes to
+    earnings, don't leave a single rupee on the table -- that's my motto!
+  event: onLogin
+  language: en
+skins:
+- skins/Cool-beast-shortsword-miyasaka_tamaki_rare_start-0-normal.png
+- skins/Tamaki-summer-sprite-normal.png
+- skins/Cool-beast-shortsword-miyasaka_tamaki_rare_gacha017-1-normal.png
+- skins/Cool-beast-shortsword-miyasaka_tamaki_rare_start-1-normal.png
+- skins/Tamaki-realsummer-sprite-normal.png

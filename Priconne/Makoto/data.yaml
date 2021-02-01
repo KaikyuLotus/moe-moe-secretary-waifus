@@ -1,0 +1,28 @@
+dialogs:
+- audio: null
+  dialog: Yeah! Once we've taken care of all the enemies, let's have a huge meal together!
+    I'll make a lot of stuff you like!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I'm overflowing with power! Don't leave my side! No matter what happens,
+    I'll absolutely protect you!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Don't get separated from me! No matter who comes, I'll chop them right up!
+  event: onClick
+  language: en
+- audio: null
+  dialog: We're just tearing up these small fry -- isn't there anyone tougher around!?
+  event: onClick
+  language: en
+- audio: null
+  dialog: If you're my friend's benefactor, you're my benefactor too. So let's get
+    along!
+  event: onLogin
+  language: en
+skins:
+- skins/Makoto-astrum-sprite-normal.png
+- skins/Makoto-summer-sprite-normal.png
+- skins/Makoto-real-sprite-normal.png

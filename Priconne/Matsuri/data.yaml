@@ -1,0 +1,8 @@
+dialogs:
+- audio: null
+  dialog: I'm the invincible hero, Matsuri! I've arrived to heed your calls!
+  event: onLogin
+  language: en
+skins:
+- skins/Pop-beast-shortsword-orihara_matsuri_rare_start-0-normal.png
+- skins/Pop-beast-shortsword-orihara_matsuri_rare_start-1-normal.png

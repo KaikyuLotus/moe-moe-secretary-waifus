@@ -1,0 +1,11 @@
+dialogs:
+- audio: null
+  dialog: 'I''m looking for a brawl!
+
+    If the reward''s right, I''ll take care of that fight for you, of course that
+    includes you too!'
+  event: onLogin
+  language: en
+skins:
+- skins/Kaya-astrum-sprite-normal.png
+- skins/Kaya-real-sprite-normal.png

@@ -1,0 +1,32 @@
+dialogs:
+- audio: null
+  dialog: Your Excellency! You haven't gotten too relaxed, have you? Prepare yourself
+    right away, and take to the field with me! Let's train together!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I am not a child, but... When you look at me, Your Excellency, you see me
+    as one, don't you? If not, then that's also fine...
+  event: onClick
+  language: en
+- audio: null
+  dialog: I've pledged my life to Your Excellency, and I'll give all that I can...
+    So with all the pride of a soldier, let us fight together!
+  event: onClick
+  language: en
+- audio: null
+  dialog: How many times do I have to say it before you get it! Again, I'm not a kid!
+    D-Don't belittle me! H-HEY, DON'T PAT MY HEAD!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Eat this! This will end you! Lightning Flash!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I'm Monika Weisswind! A proud member of Weissflugel, and a fine soldier!
+  event: onLogin
+  language: en
+skins:
+- skins/Cute-human-katana-weisswind_monica_normal_start-0-normal.png
+- skins/Cute-human-katana-weisswind_monica_normal_start-1-normal.png

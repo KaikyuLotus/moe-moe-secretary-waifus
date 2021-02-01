@@ -1,0 +1,31 @@
+dialogs:
+- audio: null
+  dialog: What is it? You want to feel my fluffy fur again? All right, just for you.
+    I'll even call you a good boy!
+  event: onClick
+  language: en
+- audio: null
+  dialog: I may have been mistaken for a monster many times, but I'm not giving in
+    to this fate! Ever since I met you, I've starting thinking this way more and more.
+  event: onClick
+  language: en
+- audio: null
+  dialog: Even seeing my outward form, you're still willing to see me as a normal
+    girl! Using your heart to understand someone on the inside -- that's why I like
+    you so much!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Going on a walk under this beautiful sky, with someone I like -- it makes
+    me so happy to do something like this, just like a normal girl would!
+  event: onClick
+  language: en
+- audio: null
+  dialog: Aww. I don't want to make a fuss, but, well, why do I have to look different
+    from other girls? My words, and my heart, are all the same as those of a normal
+    person!
+  event: onLogin
+  language: en
+skins:
+- skins/Cute-beast-longsword-rima_rima_rare_start-0-normal.png
+- skins/Cute-beast-longsword-rima_rima_rare_start-1-normal.png
